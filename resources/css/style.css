@@ -21,6 +21,17 @@ nav span {
 /* Universal Styles */
 
 
+
+
+/* Main Container */
+
+.content {
+  display: flex;
+  padding-top: 100px;
+  justify-content: center;
+  flex-direction: column;
+}
+
 /* Header */
 
 header {
