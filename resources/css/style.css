@@ -10,6 +10,13 @@ body {
   opacity: 0.9;
   text-align: center;
 }
+a {
+  color: seashell;
+}
+nav span {
+  display: inline-block;
+  padding: 20px 30px;
+}
 
 /* Universal Styles */
 
@@ -26,15 +33,15 @@ header {
   height: 69px;
   background-color: black;
 }
-nav span a {
-  display: inline-block;
-  color: seashell;
-  border: 1px solid white;
-}
+
 .logo {
   display: flex;
   align-items: center;
+  flex-grow: 1;
   height: 50px;
   padding-left: 10px;
   border: 1px solid white;
+}
+.logo img {
+  height: 50px;
 }
