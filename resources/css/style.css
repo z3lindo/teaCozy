@@ -9,7 +9,7 @@ body {
   background-color: black;
   opacity: 0.9;
   text-align: center;
-  margin: 0 auto;
+  margin: 0;
 }
 a {
   color: seashell;
@@ -29,6 +29,7 @@ nav span {
 .content {
   display: flex;
   flex-direction: column;
+  padding-top: 200px;
 }
 
 /* Header */
