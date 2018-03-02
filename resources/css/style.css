@@ -92,9 +92,11 @@ header {
 }
 .location-background {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg");
-  height: 700px;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin: 0 auto;
+  height: 500px;
+}
+.text-content {
+
 }
