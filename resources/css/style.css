@@ -30,6 +30,7 @@ nav span {
   display: flex;
   flex-direction: column;
   padding-top: 200px;
+  margin: 0 auto 50px auto;
 }
 
 /* Header */
@@ -56,3 +57,8 @@ header {
 }
 
 /* Hero Section */
+
+.hero {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg");
+  height: 700px;
+}
