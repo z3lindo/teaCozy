@@ -107,16 +107,22 @@ nav span {
   padding-top: 50px;
   margin-top: 69px;
 }
+#locations .flex-container{
+  margin: auto;
+  width: 1100px;
+}
 .locations {
   justify-content: space-around;
+  padding-top: 15px;
 }
 .place {
   background-color: black;
-  margin-top: 15px;
   width: 300px;
+  opacity: 1.0;
 }
 
 /* Footer */
+
 footer {
   height: 200px;
   margin: 10px;
