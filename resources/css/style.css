@@ -75,10 +75,25 @@ nav span {
   margin: auto;
 }
 
-/* Tea of the Month */
+/* Store Section */
 
-
-
+#store {
+  width: 1000px;
+  margin: auto;
+  height: 700px;
+  padding-top: 70px;
+}
+.item {
+  padding: 5px;
+}
+.item img {
+  margin: 10px;
+  height: 200px;
+}
+.item span {
+  display: block;
+  font-weight: bold;
+}
 
 
 
