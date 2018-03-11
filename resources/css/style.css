@@ -96,6 +96,7 @@ nav span {
 .item span {
   font-weight: bold;
   padding: 10px;
+  display: block;
 }
 
 /* Locations */
@@ -104,6 +105,7 @@ nav span {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg");
   height: 500px;
   padding-top: 50px;
+  margin-top: 69px;
 }
 .locations {
   justify-content: space-around;
