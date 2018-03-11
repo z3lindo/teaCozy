@@ -24,7 +24,9 @@ h4 {
   justify-content: center;
   flex-wrap: wrap;
 }
-
+p {
+  padding: 10px;
+}
 /* Header */
 
 header {
@@ -104,9 +106,12 @@ nav span {
   padding-top: 50px;
 }
 .locations {
-  display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 .place {
   background-color: black;
+  margin-top: 15px;
+  width: 300px;
 }
+
+/* Footer */
