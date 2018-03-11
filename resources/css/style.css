@@ -100,16 +100,5 @@ nav span {
 
 #locations {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg");
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-.location-background {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
   height: 500px;
-}
-.text-content {
-
 }
