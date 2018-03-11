@@ -89,15 +89,12 @@ nav span {
 .item img {
   margin: 10px;
   height: 200px;
+  display: block;
 }
 .item span {
-  display: block;
   font-weight: bold;
+  padding: 10px;
 }
-
-
-
-
 
 /* Locations */
 
